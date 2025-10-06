@@ -1,0 +1,15 @@
+---
+settings:
+  name: NetApp Console storage management
+  internal:
+    pdf_enabled: false
+    lipi_enabled: true
+  prod:
+    pdf_enabled: false
+    harmony_enabled: false
+    lipi_enabled: false
+  langs: ko-kr,us-en,de-de,es-es,fr-fr,it-it,pt-br,ja-jp,zh-cn,zh-tw
+sidebar:
+  entries:
+  - title: NetApp 콘솔 스토리지 관리 문서
+    url: "/index.html"
