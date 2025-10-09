@@ -33,7 +33,7 @@ product-family:
     icon: "./media/icon-admin.png"
     url: "../console-setup-admin/index.html"
     summary: NetApp 콘솔을 사용하여 ID 및 액세스 관리, 에이전트 등을 관리하는 방법을 알아보세요.
-    tags: all,connectors,iam
+    tags: all,console
   - title: NetApp 데이터 서비스
     icon: "./media/icon-storagegrid.png"
     url: "../data-services-family/index.html"
@@ -72,7 +72,7 @@ product-family:
   - title: Google Cloud NetApp Volumes
     icon: "./media/icon-cvs.png"
     url: "../storage-management-google-cloud-netapp-volumes/index.html"
-    summary: 파일 저장소를 안전하게 보호하고 가속화하세요.
+    summary: Google Cloud의 고성능 파일 저장 서비스입니다.
     tags: all,storage,gcp
   - title: 구글 클라우드 스토리지
     icon: "./media/icon-google-cloud-storage.png"

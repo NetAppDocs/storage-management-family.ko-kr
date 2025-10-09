@@ -29,7 +29,6 @@
   <block id="6b068f0a943d421535c7d8d412ee3522" category="sidebar">E-시리즈 시스템</block>
   <block id="25e0ccd395342edee81a87cd62b00061" category="sidebar">하이브리드 멀티클라우드 전반의 데이터를 완벽하게 볼 수 있는 E-Series 시스템을 알아보세요.</block>
   <block id="1215f8190533dfdf63d2224a6d88266f" category="sidebar">Google Cloud NetApp Volumes</block>
-  <block id="862d06f5b0779c31053bcadc07e8028b" category="sidebar">파일 저장소를 안전하게 보호하고 가속화하세요.</block>
   <block id="833c2c211a541e50ad94433664e4b5c1" category="sidebar">구글 클라우드 스토리지</block>
   <block id="195aba5a6e7c41123fc8903b34a99aeb" category="sidebar">Google 계정에서 Cloud Storage 버킷을 검색하고 관리하세요.</block>
   <block id="1ce2096c300f78bbb8389ca2603e6dd9" category="sidebar">Keystone</block>
@@ -39,4 +38,5 @@
   <block id="392d70ca39f31f10bd637936769788df" category="sidebar">StorageGRID</block>
   <block id="a36df6033de16c49cfa4f18bcdec18c4" category="sidebar">StorageGRID 시스템을 관리하세요.</block>
   <block id="228961654a1973046cdceb22f94daf65" category="sidebar">NetApp 콘솔 스토리지 관리 문서</block>
+  <block id="d24825ead411a6f92b29a5f05bd8ef33" category="sidebar">Google Cloud의 고성능 파일 저장 서비스입니다.</block>
 </blocks>
