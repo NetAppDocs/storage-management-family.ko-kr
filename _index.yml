@@ -1,10 +1,10 @@
 ---
 product-family:
-  title: NetApp 콘솔 스토리지 관리
-  lead: NetApp 콘솔은 온프레미스 및 멀티클라우드 환경 전반에서 스토리지 및 데이터 서비스를 중앙에서 관리할 수 있는 기능을 제공합니다.  통합된
+  title: NetApp Console 스토리지 관리
+  lead: NetApp Console 온프레미스 및 멀티클라우드 환경 전반에서 스토리지 및 데이터 서비스를 중앙에서 관리할 수 있는 기능을 제공합니다.  통합된
     제어, 운영의 단순성, 안전한 관리를 제공합니다.  저장 제품별로 찾아보거나 검색을 이용하세요.
-  summary: NetApp 콘솔은 온프레미스 및 멀티클라우드 환경 전반에서 스토리지 및 데이터 서비스를 중앙에서 관리할 수 있는 기능을 제공합니다.  통합된
-    제어, 운영의 단순성, 안전한 관리를 제공합니다.  저장 제품별로 찾아보거나 검색을 이용하세요.
+  summary: NetApp Console 온프레미스 및 멀티클라우드 환경 전반에서 스토리지 및 데이터 서비스를 중앙에서 관리할 수 있는 기능을
+    제공합니다.  통합된 제어, 운영의 단순성, 안전한 관리를 제공합니다.  저장 제품별로 찾아보거나 검색을 이용하세요.
   sidebarlinks:
   - title: 모두
     tags: all
@@ -15,9 +15,9 @@ product-family:
     tags: azure
   - title: 구글 클라우드
     tags: gcp
-  - title: NetApp 데이터 서비스
+  - title: NetApp Data Services
     tags: data services
-  - title: NetApp 콘솔
+  - title: NetApp Console
     tags: console
   - title: 온프레미스
     tags: on-prem
@@ -27,14 +27,14 @@ product-family:
   - title: 릴리스 노트
     icon: "./media/icon-docs.png"
     url: "../console-relnotes/index.html"
-    summary: NetApp 콘솔 스토리지 관리와 NetApp 데이터 서비스의 새로운 기능에 대해 알아보세요.
+    summary: NetApp Console 스토리지 관리와 NetApp 데이터 서비스의 새로운 기능에 대해 알아보세요.
     tags: all
-  - title: NetApp 콘솔 관리
+  - title: NetApp Console 관리
     icon: "./media/icon-admin.png"
     url: "../console-setup-admin/index.html"
-    summary: NetApp 콘솔을 사용하여 ID 및 액세스 관리, 에이전트 등을 관리하는 방법을 알아보세요.
+    summary: NetApp Console 사용하여 ID 및 액세스 관리, 에이전트 등을 관리하는 방법을 알아보세요.
     tags: all,console
-  - title: NetApp 데이터 서비스
+  - title: NetApp Data Services
     icon: "./media/icon-storagegrid.png"
     url: "../data-services-family/index.html"
     summary: NetApp 데이터 서비스를 살펴보고 데이터 인프라를 보호하고 보안을 강화하세요.
@@ -82,12 +82,13 @@ product-family:
   - title: Keystone
     icon: "./media/icon-keystone.png"
     url: "../keystone-staas/index.html"
-    summary: NetApp 콘솔에서 Keystone 구독에 액세스하고 관리하세요.
+    summary: NetApp Console 에서 Keystone 구독에 액세스하고 관리하세요.
     tags: all,subscriptions
   - title: 온프레미스 ONTAP 클러스터
     icon: "./media/icon-onprem.png"
     url: "../storage-management-ontap-onprem/index.html"
-    summary: System Manager와 NetApp 데이터 서비스를 사용하여 NetApp 콘솔에서 온프레미스 ONTAP 클러스터를 관리하세요.
+    summary: System Manager와 NetApp 데이터 서비스를 사용하여 NetApp Console 에서 온프레미스 ONTAP 클러스터를
+      관리하세요.
     tags: all,on-prem
   - title: StorageGRID
     icon: "./media/icon-storagegrid.png"
