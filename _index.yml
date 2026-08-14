@@ -23,6 +23,8 @@ product-family:
     tags: on-prem
   - title: 스토리지 구독
     tags: subscriptions
+  - title: 워크로드
+    tags: workloads
   tiles:
   - title: 릴리스 노트
     icon: "./media/icon-docs.png"
@@ -95,3 +97,8 @@ product-family:
     url: "../storage-management-storagegrid/index.html"
     summary: StorageGRID 시스템을 관리하세요.
     tags: all,on-prem
+  - title: 워크로드
+    icon: "./media/icon-workloads.png"
+    url: "../workload-family"
+    summary: FSx for ONTAP의 프로비저닝, 거버넌스 및 라이프사이클을 자동화합니다. 비용 절감 및 고급 관리 기능을 살펴보십시오.
+    tags: all,workloads
