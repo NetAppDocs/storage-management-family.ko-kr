@@ -25,73 +25,59 @@ product-family:
     tags: subscriptions
   tiles:
   - title: 릴리스 노트
-    icon: "./media/icon-docs.png"
     url: "../console-relnotes/index.html"
     summary: NetApp Console 스토리지 관리와 NetApp 데이터 서비스의 새로운 기능에 대해 알아보세요.
     tags: all
   - title: NetApp Console 관리
-    icon: "./media/icon-admin.png"
     url: "../console-setup-admin/index.html"
     summary: NetApp Console 사용하여 ID 및 액세스 관리, 에이전트 등을 관리하는 방법을 알아보세요.
     tags: all,console
   - title: NetApp Data Services
-    icon: "./media/icon-storagegrid.png"
     url: "../data-services-family/index.html"
     summary: NetApp 데이터 서비스를 살펴보고 데이터 인프라를 보호하고 보안을 강화하세요.
     tags: all,data services
   - title: Amazon FSx for NetApp ONTAP
-    icon: "./media/icon-fsx.png"
     url: "../storage-management-fsx-ontap/index.html"
     summary: AWS에서 관리하는 기본 서비스로 ONTAP 의 모든 기능을 활용하세요.
     tags: all, aws
   - title: Amazon S3 스토리지
-    icon: "./media/icon-s3.png"
     url: "../storage-management-s3-storage/index.html"
     summary: AWS 계정에서 Amazon S3 버킷을 검색하고 관리합니다.
     tags: all,aws
   - title: Azure Blob 저장소
-    icon: "./media/icon-azure-blob.png"
     url: "../storage-management-blob-storage/index.html"
     summary: Azure 구독에서 Azure Blob 저장소를 검색하고 관리합니다.
     tags: all,azure
   - title: Azure NetApp Files
-    icon: "./media/icon-anf.png"
     url: "../storage-management-azure-netapp-files/index.html"
     summary: 핵심 비즈니스 애플리케이션을 위한 Azure의 고성능 파일 저장 서비스입니다.
     tags: all,storage,azure
   - title: Cloud Volumes ONTAP
-    icon: "./media/icon-cvo.png"
     url: "../storage-management-cloud-volumes-ontap/index.html"
     summary: 클라우드 스토리지를 더욱 저렴하고 지능적이며 규정을 준수하고 안전하게 만들어보세요.
     tags: all,storage,aws,azure,gcp, subscriptions
   - title: E-시리즈 시스템
-    icon: "./media/icon-e-series.png"
     url: "../storage-management-e-series/index.html"
     summary: 하이브리드 멀티클라우드 전반의 데이터를 완벽하게 볼 수 있는 E-Series 시스템을 알아보세요.
     tags: all,on-prem
   - title: Google Cloud NetApp Volumes
-    icon: "./media/icon-cvs.png"
     url: "../storage-management-google-cloud-netapp-volumes/index.html"
     summary: Google Cloud의 고성능 파일 저장 서비스입니다.
     tags: all,storage,gcp
   - title: 구글 클라우드 스토리지
-    icon: "./media/icon-google-cloud-storage.png"
     url: "../storage-management-google-cloud-storage/index.html"
     summary: Google 계정에서 Cloud Storage 버킷을 검색하고 관리하세요.
     tags: all,gcp
   - title: Keystone
-    icon: "./media/icon-keystone.png"
     url: "../keystone-staas/index.html"
     summary: NetApp Console 에서 Keystone 구독에 액세스하고 관리하세요.
     tags: all,subscriptions
   - title: 온프레미스 ONTAP 클러스터
-    icon: "./media/icon-onprem.png"
     url: "../storage-management-ontap-onprem/index.html"
     summary: System Manager와 NetApp 데이터 서비스를 사용하여 NetApp Console 에서 온프레미스 ONTAP 클러스터를
       관리하세요.
     tags: all,on-prem
   - title: StorageGRID
-    icon: "./media/icon-storagegrid.png"
     url: "../storage-management-storagegrid/index.html"
     summary: StorageGRID 시스템을 관리하세요.
     tags: all,on-prem
